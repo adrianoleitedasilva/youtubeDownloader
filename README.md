@@ -52,3 +52,10 @@ Allows manual selection by index or language filter.
 Downloads video and audio separately.
 
 Merges them with ffmpeg into the final file.
+
+pip install pytubefix
+
+# Windows:
+
+winget install Gyan.FFmpeg # ou: choco install ffmpeg
+ffmpeg -version
